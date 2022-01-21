@@ -2,32 +2,32 @@
 
 ##Exercice 1 
 
-Faire une page index1.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index1.php?nom=Nemare&prenom=Jean
+***Faire une page index1.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index1.php?nom=Nemare&prenom=Jean***
 
 
 ##Exercice 2 
 
-Faire une page index2.php. Tester sur cette page que le paramètre age existe et si c'est le cas l'afficher sinon le signaler : index2.php?nom=Nemare&prenom=Jean
+***Faire une page index2.php. Tester sur cette page que le paramètre age existe et si c'est le cas l'afficher sinon le signaler : index2.php?nom=Nemare&prenom=Jean***
 
 
 ##Exercice 3 
 
-Faire une page index3.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index3.php?dateDebut=2/05/2016&dateFin=27/11/2016
+***Faire une page index3.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index3.php?dateDebut=2/05/2016&dateFin=27/11/2016***
 
 
 ##Exercice 4 
 
-Faire une page index4.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index4.php?langage=PHP&serveur=LAMP
+***Faire une page index4.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index4.php?langage=PHP&serveur=LAMP***
 
 
 ##Exercice 5 
 
-Faire une page index5.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index5.php?semaine=12
+***Faire une page index5.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index5.php?semaine=12***
 
 
 ##Exercice 6 
 
-Faire une page index6.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index6.php?batiment=12&salle=101
+***Faire une page index6.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index6.php?batiment=12&salle=101***
 
 
 Note :
